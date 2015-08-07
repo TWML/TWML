@@ -1,0 +1,3 @@
+[submodule "iOS/SVM"]
+	path = iOS/SVM
+	url = https://gradyzhuo@github.com/TWML/TWMLSVM.git
