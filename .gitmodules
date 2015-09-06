@@ -1,3 +1,0 @@
-[submodule "iOS/SVM"]
-	path = iOS/SVM
-	url = https://github.com/TWML/CWLinearSVM
